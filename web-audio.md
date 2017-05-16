@@ -13,6 +13,7 @@
 
 ## web audio resources
 
+- https://github.com/notthetup/awesome-webaudio
 - https://github.com/earslap
 - http://www.webaudioweekly.com/
 - http://musicthing.blogspot.ch/
