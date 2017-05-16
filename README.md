@@ -1,3 +1,4 @@
+* [Web APIs](/web-apis.md)
 * [Web Audio](/web-audio.md)
 * [Bluetooth](/bluetooth.md)
 * [React](/react.md)
