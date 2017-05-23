@@ -14,3 +14,4 @@
 * [Web Secure Dev](web-secure-dev.md)
 * [Web Services](web-services.md)
     * [Test](/test/acme.md)
+        * [Foo Bar](/test/foo/bar.md)
