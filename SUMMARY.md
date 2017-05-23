@@ -13,7 +13,4 @@
 * [Web Basics](web-basics.md)
 * [Web Secure Dev](web-secure-dev.md)
 * [Web Services](web-services.md)
-
-## test 
-
-* [Test](/test/acme.md)
+    * [Test](/test/acme.md)
