@@ -1,0 +1,20 @@
+_**studio guitar guitar amp**_
+
+### guitar amp
+
+- [Speaker Impedance Matching and Hookup.pdf](http://www.mesaboogie.com/media/Amplitudes/2013/June/Speaker%20Impedance%20Matching%20and%20Hookup.pdf)
+- [orange ppc 412 thunderverb 50 - Google Search](https://www.google.ch/search?q=orange+ppc+412&safe=off&source=lnms&tbm=isch&sa=X&ved=0ahUKEwiWo8KBj53NAhUHPRoKHbcOBS0Q_AUICCgB&biw=1244&bih=772#safe=off&tbm=isch&q=orange+ppc+412+thunderverb+50&imgrc=virkzdRjd5r4HM%3A)
+- [ORANGE Amps User's Club (page 1 : sommaire) - Forum ampli et préampli guitare](http://www.guitariste.com/forums/amplification,orange-amps-user-s-club-page-1-sommaire,40483.html)
+- [Google Image Result for http://www.colomar.com/Shavano/4x12wiring2.gif](https://www.google.ch/imgres?imgurl=http%3A%2F%2Fwww.colomar.com%2FShavano%2F4x12wiring2.gif&imgrefurl=https%3A%2F%2Fforum.orangeamps.com%2Fviewtopic.php%3Ff%3D4%26t%3D47391&docid=oG3lr03x2EzRfM&tbnid=5Mr25tzng0pMgM%3A&w=354&h=233&safe=off&bih=772&biw=1244&ved=0ahUKEwi_xJyrj53NAhVE2RoKHVIJD144ZBAzCCAoHTAd&iact=mrc&uact=8#h=233&w=354)
+- [Orange Amps Forum • View topic - My PPC 412 cab](https://forum.orangeamps.com/viewtopic.php?f=4&t=47391)
+- [Shavano Music Online - Speaker Wiring/Loading Examples](http://www.colomar.com/Shavano/spkr_wiring.html)
+- [30 watts worth of speakers for a 33 watt amp? | The Gear Page](http://www.thegearpage.net/board/index.php?threads/30-watts-worth-of-speakers-for-a-33-watt-amp.245463/)
+- [guitar amp 8 to speaker 16 - Google Search](https://www.google.ch/search?q=guitar+amp+8+to+speaker+16&safe=off&sa=X&biw=1244&bih=818&tbm=isch&tbo=u&source=univ&ved=0ahUKEwiCpK_-jJ3NAhXDtxQKHSz2ArwQsAQITQ)
+- [16 ohm Speaker in an 8 ohm Amp? | Telecaster Guitar Forum](http://www.tdpri.com/threads/16-ohm-speaker-in-an-8-ohm-amp.304874/)
+- [Ohm cooking 101: understanding amps, speakers and impedance - Hughes & Kettner BLOG](http://blog.hughes-and-kettner.com/ohm-cooking-101-understanding-amps-speakers-and-impedance/)
+- [UG Community @ Ultimate-Guitar.Com - What happens if you run a 16ohm amp through 8 ohm speakers?](https://www.ultimate-guitar.com/forum/showthread.php?t=1186899)
+- [Orange Amps Forum • View topic - Thunderverb 50: the end all review! =D](https://forum.orangeamps.com/viewtopic.php?f=2&t=43490)
+- [Orange thunderverb 50 w/1x12 for home and jam space...good choice? - MyLesPaul.com](http://www.mylespaul.com/forums/squawk-box/150868-orange-thunderverb-50-w-1x12-home-jam-space-good-choice.html)
+- [**++ The Amp Guts Appreciation Thread PART 2 ! ! | The Gear Page**](http://www.thegearpage.net/board/index.php?threads/the-amp-guts-appreciation-thread-part-2.918374/)
+- [**+ electric guitar - How to connect a 16 ohm and an 8 ohm cabinet to the same amp head - Music: Practice & Theory Stack Exchange**](http://music.stackexchange.com/questions/11073/how-to-connect-a-16-ohm-and-an-8-ohm-cabinet-to-the-same-amp-head)
+- [Solid-state Guitar Amplifiers](http://www.thatraymond.com/downloads/solidstate_guitar_amplifiers_teemu_kyttala_v1.0.pdf)

@@ -1,0 +1,28 @@
+_**electro red pitaya**_
+
+## red pitaya
+
+- [freetronics | feilipu](http://feilipu.me/tag/freetronics/)
+- [Hardware Overview - Red Pitaya Wiki](http://wiki.redpitaya.com/index.php?title=Hardware_Overview)
+- [farsinotare.com](http://blog.farsinotare.com/2014/07/04/my-new-lab-with-red-pitaya/)
+- [List of components](http://pavel-demin.github.io/red-pitaya-notes/components/)
+- [pavel-demin/red-pitaya-notes: Notes on the Red Pitaya Open Source Instrument](https://github.com/pavel-demin/red-pitaya-notes)
+- [DanBooker/RedPitayaCustom: Our Red Pitaya files.](https://github.com/DanBooker/RedPitayaCustom)
+- [fgeorgy/Red-Pitaya-Guitar-Effects](https://github.com/fgeorgy/Red-Pitaya-Guitar-Effects)
+- [Red Pitaya Bears Fruit and it Tastes Good » DesignSpark](http://www.rs-online.com/designspark/electronics/eng/blog/red-pitaya-bears-fruit-and-it-tastes-good)
+- [Connecting to Red Pitaya is Difficult? | Red Pitaya](http://blog.redpitaya.com/?p=141)
+- [red pitaya guitar effect - Google Search](https://www.google.ch/search?q=red+pitaya+guitar+effect&oq=red+pitaya+guitar+effect&aqs=chrome..69i57.4075j0j7&sourceid=chrome&es_sm=91&ie=UTF-8)
+- [NPM & left-pad: Have We Forgotten How To Program? | Haney Codes .NET](http://www.haneycodes.net/npm-left-pad-have-we-forgotten-how-to-program/)
+- [random ramblings of an engineer: Keep your Red Pitaya cool](http://rroeng.blogspot.ch/2014/03/keep-your-red-pitaya-cool.html)
+- [Homepage von Karola und Jochen Schäuble – Red Pitaya: WLAN configuration](http://schaeuble.info/2015/05/21/red-pitaya-wlan-configuration/)
+- [RedPitaya/RedPitaya: Red Pitaya Ecosystem and Applications](https://github.com/RedPitaya/RedPitaya)
+- [Newest 'redpitaya' Questions - Stack Overflow](http://stackoverflow.com/questions/tagged/redpitaya)
+- [Red Pitaya: the opensource electronic laboratory | Open Electronics](http://www.open-electronics.org/red-pitaya-the-opensource-electronic-laboratory/)
+- [Python on the Red Pitaya board](http://forum.redpitaya.com/viewtopic.php?f=7&t=568)
+- [Standard Commands for Programmable Instruments - Wikipedia, the free encyclopedia](https://en.wikipedia.org/wiki/Standard_Commands_for_Programmable_Instruments)
+- [**+ Red Pitaya » DesignSpark**](http://www.rs-online.com/designspark/electronics/eng/nodes/view/type:design-centre/slug:red-pitaya)
+- [**++ My First Application in Three Steps | Red Pitaya**](http://blog.redpitaya.com/?p=240)
+- [**++ Physical System Modelling | Red Pitaya**](http://blog.redpitaya.com/?p=469)
+- [Red Pitaya Wiki](http://wiki.redpitaya.com/index.php?title=Main_Page)
+- [Analog frontend - Inputs - Red Pitaya Wiki](http://wiki.redpitaya.com/index.php?title=Analog_frontend_-_Inputs)
+- [Analog frontend - Outputs - Red Pitaya Wiki](http://wiki.redpitaya.com/index.php?title=Analog_frontend_-_Outputs)

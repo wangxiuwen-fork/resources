@@ -1,0 +1,26 @@
+_**studio web audio, dev audio web midi**_
+
+### web midi
+
+- [**+ Web MIDI: Music and Show Control in the Browser - TangibleJS**](http://tangiblejs.com/posts/web-midi-music-and-show-control-in-the-browser)
+- [**+++ cotejp/webmidi: WebMidi.js helps you tame the Web MIDI API. Send and receive MIDI messages with ease. Control instruments with user-friendly functions (playNote, sendPitchBend, etc.). React to MIDI input with simple event listeners (noteon, pitchbend,**](https://github.com/cotejp/webmidi)
+- [React Web MIDI](https://erictherobot.github.io/react-web-midi/)
+- [notthetup/midimessage: Simple Web-MIDI Message Parser](https://github.com/notthetup/midimessage)
+- [Midi Logger | Output Channel, the audio blog.](http://outputchannel.com/midi-logger/)
+- [midi-logger/js at master · edwardball/midi-logger](https://github.com/edwardball/midi-logger/tree/master/js)
+- [**++++ Web Audio/MIDI Demo List | W3C Audio WG**](http://webaudio.github.io/demo-list/)
+- [vincentchoqueuse.github.io/drum_machine/](http://vincentchoqueuse.github.io/drum_machine/)
+- [Web MIDI test page](https://www.onlinemusictools.com/webmiditest/)
+- [WebMIDI test page / Stoyan's phpied.com](https://www.phpied.com/webmidi-test-page/)
+- [Nightmare scenarios with WebMIDI / Stoyan's phpied.com](https://www.phpied.com/nightmare-scenarios-with-webmidi/)
+- [**+++ 3 osc demo**](https://googlechrome.github.io/web-audio-samples/samples/audio/subtractive.html)
+- [rxjs-web-midi/README.md at master · achydenius/rxjs-web-midi](https://github.com/achydenius/rxjs-web-midi/blob/master/README.md)
+- [4elements, web design and consultancy - Amsterdam - Blog, An Introduction to Web MIDI](https://www.4elements.com/blog/comments/an_introduction_to_web_midi)
+- [**+++ snoize MIDI tools**](https://www.snoize.com/)
+- [Somascape : MIDI Ways - Guide to the MIDI 1.0 technical specification](http://www.somascape.org/midi/tech/spec.html#ptc)
+- [Web MIDI API](https://webaudio.github.io/web-midi-api/)
+- [Web MIDI API](http://cwilso.github.io/web-midi-api/)
+- [https://www.w3.org/TR/webmidi/#dfn-algorithm-to-open-a-midiport](https://www.w3.org/TR/webmidi/#dfn-algorithm-to-open-a-midiport)
+- [GitHub - WebAudio/web-midi-api: The Web MIDI API, developed by the W3C Audio WG](https://github.com/WebAudio/web-midi-api)
+- [Making Music in the Browser - Web MIDI API | Keith McMillen Instruments](https://www.keithmcmillen.com/blog/making-music-in-the-browser-web-midi-api/)
+- [WebMidiLink - 1.Introduction | g200kg Music & Software](http://www.g200kg.com/en/docs/webmidilink/)

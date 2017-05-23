@@ -1,0 +1,27 @@
+_**studio guitar guitar fx guitar fx 101**_
+
+#### guitar fx 101
+
+- [**++ Effects Loops 101**](http://www.premierguitar.com/articles/Effects_Loops_101_)
+- [Effects Loops](http://www.premierguitar.com/articles/Effects_Loops)
+- [The ABCs of Compression](http://www.premierguitar.com/articles/The_ABCs_of_Compression)
+- [Maxwell’s Silver Hammer of the Gods](http://www.premierguitar.com/articles/Maxwells_Silver_Hammer_of_the_Gods)
+- [The 6 Types of Tremolo Explained | Reverb](https://reverb.com/news/the-6-types-of-tremolo-explained?_aid=fb)
+- [Article: Technique: Effects Basics](http://www.harmonycentral.com/articles/techniques-effects-basics)
+- [Article: Exploring Time-Based Effects (Part 3- Flanging and Chorus)](http://www.harmonycentral.com/articles/exploring-time-based-effects-part-3--flanging-and-chorus)
+- [Article: Exploring Time-Based Effects (Part 2- Reverb)](http://www.harmonycentral.com/articles/exploring-time-based-effects-part-2--reverb)
+- [Effects Articles | Harmony Central](http://www.harmonycentral.com/articles/category/54/1)
+- [Delay: Your Most Versatile Effect | Pro Guitar Shop](http://proguitarshop.com/andyscorner/delay-your-most-versatile-effect)
+- [A Call to Order](http://www.premierguitar.com/articles/A_Call_to_Order)
+- [FX LOOPS EXPLAINED | Pro Guitar Shop](http://proguitarshop.com/andyscorner/fx-loops-explained)
+- [Catalinbread - Recording Direct with Pedals](http://catalinbread.com/2013/02/02/di-recording-with-catalinbread/)
+- [Compressor placement on your pedalboard - AMZ-FX Guitar Effects Blog](http://www.muzique.com/news/compressor-placement-on-your-pedalboard/)
+- [**+ Legendary Tones - Fuzz Feast Part 2 - An Assortment of Today's Fuzzes**](http://www.legendarytones.com/modern-fuzz-boxes/)
+- [**+++ Setting Up Your Effect Signal Chain - Strymon**](http://www.strymon.net/setting-up-your-effect-signal-chain/)
+- [Pedal Order by the Numbers—Plus, the Pros on Pedal Order | GuitarPlayer](http://www.guitarplayer.com/gear/1012/pedal-order-by-the-numbersplus-the-pros-on-pedal-order/54929)
+- [Pedal order - The Rules And How To Break Them | TC Electronic](http://www.tcelectronic.com/pedal-order-the-rules-and-how-to-break-them/)
+- [How To Chain Your Guitar Effects Pedals - Part 1 - Roland U.S. Blog](http://www.rolandus.com/blog/2013/03/06/how-to-chain-your-guitar-effects-pedals/)
+- [How To Chain Your Guitar Effects Pedals - Part 2 - Roland U.S. Blog](http://www.rolandus.com/blog/2013/03/19/how-to-chain-your-guitar-effects-pedals-part-2/)
+- [BOSS Your Tone: Overdrive and Distortion - Roland U.S. Blog](http://www.rolandus.com/blog/2013/04/25/get-great-tone-with-overdrive-and-distortion/)
+- [True Bypass vs. Buffered Effects Pedals - Roland U.S. Blog](http://www.rolandus.com/blog/2014/06/24/true-bypass-vs-buffered-effects-pedals/)
+- [Strymon Tech Corner #1 - Anatomy of an expression pedal - Strymon](http://www.strymon.net/strymon-tech-corner-1-anatomy-of-an-expression-pedal/)

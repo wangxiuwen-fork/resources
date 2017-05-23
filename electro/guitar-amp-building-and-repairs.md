@@ -1,0 +1,26 @@
+_**electro guitar amp building and repairs**_
+
+## guitar amp building and repairs
+
+- [**+++ www.angelfire.com/blog/sunnmodelt/**](http://www.angelfire.com/blog/sunnmodelt/)
+- [Build a Sunn Model T clone. Some questions. (EU) - diyAudio](http://www.diyaudio.com/forums/instruments-amps/268682-build-sunn-model-t-clone-some-questions-eu.html)
+- [Instruments and Amps - diyAudio](http://www.diyaudio.com/forums/instruments-amps/)
+- [Prowess Amplifiers - Sunn - Schematics - Model T](http://www.prowessamplifiers.com/schematics/sunn/Model_T.html)
+- [Welcome to TubeDepot.com!](https://www.tubedepot.com/pages/bias-point)
+- [DIY Tube Guitar Amp Page](http://www.diyguitaramp.com/bias.html)
+- [Selecting a TUT Book](http://www.londonpower.com/tut-selection)
+- [Biasing](http://www.amp-fix.com/biasing.htm)
+- [Kevin O'Connor's "The Ultimate Tone Vol.3" Contents & Figures](http://www.londonpower.com/books/tut3cont.html)
+- [Technical Articles & Information](http://www.londonpower.com/tech-articles)
+- [Effects Loop Truths](http://www.londonpower.com/effects-loop-truths)
+- [Tube Amp FAQ](http://www.londonpower.com/tube-amps-faq)
+- [Lust for Power | Premier Guitar](http://www.premierguitar.com/articles/19963-lust-for-power?page=2)
+- [Marshall JTM 45 - Wikipedia, the free encyclopedia](https://en.wikipedia.org/wiki/Marshall_JTM_45#Name.2C_numbering)
+- [Fender Bassman - Wikipedia, the free encyclopedia](https://en.wikipedia.org/wiki/Fender_Bassman)
+- [Category:Instrument amplifiers - Wikipedia, the free encyclopedia](https://en.wikipedia.org/wiki/Category:Instrument_amplifiers)
+- [Peavey 5150 - Wikipedia, the free encyclopedia](https://en.wikipedia.org/wiki/Peavey_5150)
+- [Freddie Tavares - Wikipedia, the free encyclopedia](https://en.wikipedia.org/wiki/Freddie_Tavares)
+- [Marshall Bluesbreaker - Wikipedia, the free encyclopedia](https://en.wikipedia.org/wiki/Marshall_Bluesbreaker)
+- [**+++ madbeanpedals.DIY**](http://www.madbeanpedals.com/EP/index.html)
+- [GEO's Guitar Amp Pages](http://www.geofex.com/gtramps.htm)
+- [www.geofex.com/Article_Folders/mosfet_folly/mosfetfolly.htm](http://www.geofex.com/Article_Folders/mosfet_folly/mosfetfolly.htm)

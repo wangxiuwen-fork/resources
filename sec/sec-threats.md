@@ -1,0 +1,26 @@
+_**sec sec threats**_
+
+## sec threats
+
+- [New Ransomware Written Entirely In JavaScript - Slashdot](https://yro.slashdot.org/story/16/06/19/1958203/new-ransomware-written-entirely-in-javascript)
+- [Dirty COW (CVE-2016-5195)](http://dirtycow.ninja/)
+- [New Ransomware Written Entirely In JavaScript - Slashdot](https://yro.slashdot.org/story/16/06/19/1958203/new-ransomware-written-entirely-in-javascript)
+- [Dirty COW (CVE-2016-5195)](http://dirtycow.ninja/)
+- [Full(er) House: Exposing high-end poker cheating devices](https://www.elie.net/blog/security/fuller-house-exposing-high-end-poker-cheating-devices)
+- [Full(er) House: Exposing high-end poker cheating devices](https://www.elie.net/blog/security/fuller-house-exposing-high-end-poker-cheating-devices)
+- [When CSI meets public wifi: Inferring your mobile phone password via wifi signals | the morning paper](https://blog.acolyer.org/2016/11/10/when-csi-meets-public-wifi-inferring-your-mobile-phone-password-via-wifi-signals/)
+- [When CSI meets public wifi: Inferring your mobile phone password via wifi signals | the morning paper](https://blog.acolyer.org/2016/11/10/when-csi-meets-public-wifi-inferring-your-mobile-phone-password-via-wifi-signals/)
+- [Security for the High-Risk User – John Scott-Railton](https://www.johnscottrailton.com/security-for-the-high-risk-user/)
+- [Security for the High-Risk User – John Scott-Railton](https://www.johnscottrailton.com/security-for-the-high-risk-user/)
+- [More Than 1 Million Google Accounts Breached by Gooligan | Check Point Blog](http://blog.checkpoint.com/2016/11/30/1-million-google-accounts-breached-gooligan/)
+- [More Than 1 Million Google Accounts Breached by Gooligan | Check Point Blog](http://blog.checkpoint.com/2016/11/30/1-million-google-accounts-breached-gooligan/)
+- [anttiviljami/browser-autofill-phishing: A simple demo of phishing by abusing the browser autofill feature](https://github.com/anttiviljami/browser-autofill-phishing)
+- [anttiviljami/browser-autofill-phishing: A simple demo of phishing by abusing the browser autofill feature](https://github.com/anttiviljami/browser-autofill-phishing)
+- [Stealing passwords from McDonald's users - Tijme Gommers](https://finnwea.com/blog/stealing-passwords-from-mcdonalds-users)
+- [Stealing passwords from McDonald's users - Tijme Gommers](https://finnwea.com/blog/stealing-passwords-from-mcdonalds-users)
+- [Vault7 - Home](https://wikileaks.org/ciav7p1/)
+- [Vault7 - Home](https://wikileaks.org/ciav7p1/)
+- [WikiLeaks Releases CIA Hacking Tools - Schneier on Security](https://www.schneier.com/blog/archives/2017/03/wikileaks_relea.html)
+- [‘Filecode’ ransomware attacks your Mac – how to recover for free – Naked Security](https://nakedsecurity.sophos.com/2017/02/28/filecode-ransomware-attacks-your-mac-how-to-recover-for-free/?utm_source=Naked+Security+-+Sophos+List&utm_campaign=e8ead4872d-naked%252Bsecurity&utm_medium=email&utm_term=0_31623bb782-e8ead4872d-455024017)
+- [WikiLeaks Releases CIA Hacking Tools - Schneier on Security](https://www.schneier.com/blog/archives/2017/03/wikileaks_relea.html)
+- [‘Filecode’ ransomware attacks your Mac – how to recover for free – Naked Security](https://nakedsecurity.sophos.com/2017/02/28/filecode-ransomware-attacks-your-mac-how-to-recover-for-free/?utm_source=Naked+Security+-+Sophos+List&utm_campaign=e8ead4872d-naked%252Bsecurity&utm_medium=email&utm_term=0_31623bb782-e8ead4872d-455024017)

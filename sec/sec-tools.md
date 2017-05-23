@@ -1,0 +1,26 @@
+_**sec sec-tools**_
+
+## sec-tools
+
+- [HULK, Web Server DoS Tool | Barry Shteiman](http://www.sectorix.com/2012/05/17/hulk-web-server-dos-tool/)
+- [HULK, Web Server DoS Tool | Barry Shteiman](http://www.sectorix.com/2012/05/17/hulk-web-server-dos-tool/)
+- [Siege Home](https://www.joedog.org/siege-home/)
+- [Siege Home](https://www.joedog.org/siege-home/)
+- [Performance and Load Testing from the Cloud - Blitz by Spirent](https://www.blitz.io/)
+- [Performance and Load Testing from the Cloud - Blitz by Spirent](https://www.blitz.io/)
+- [mitmproxy/mitmproxy: An interactive SSL-capable intercepting HTTP proxy for penetration testers and software developers](https://github.com/mitmproxy/mitmproxy)
+- [mitmproxy/mitmproxy: An interactive SSL-capable intercepting HTTP proxy for penetration testers and software developers](https://github.com/mitmproxy/mitmproxy)
+- [**+++ infobyte/faraday: Collaborative Penetration Test and Vulnerability Management Platform**](https://github.com/infobyte/faraday)
+- [**+++ infobyte/faraday: Collaborative Penetration Test and Vulnerability Management Platform**](https://github.com/infobyte/faraday)
+- [Watch this hacker steal login credentials from a locked PC using a $50 device » TechWorm](http://www.techworm.net/2016/10/watch-hacker-steal-login-credentials-locked-pc-using-50-device.html)
+- [Watch this hacker steal login credentials from a locked PC using a $50 device » TechWorm](http://www.techworm.net/2016/10/watch-hacker-steal-login-credentials-locked-pc-using-50-device.html)
+- [**++ Sandcat Browser - The Pen Tester's Browser**](http://www.syhunt.com/sandcat/?utm_content=buffer2c9f5&utm_medium=social&utm_source=facebook.com&utm_campaign=buffer)
+- [**++ Sandcat Browser - The Pen Tester's Browser**](http://www.syhunt.com/sandcat/?utm_content=buffer2c9f5&utm_medium=social&utm_source=facebook.com&utm_campaign=buffer)
+- [Python for hackers and pentesters (W32) - Pentestmag](https://pentestmag.com/product/python-hackers-pentesters-w32/)
+- [Python for hackers and pentesters (W32) - Pentestmag](https://pentestmag.com/product/python-hackers-pentesters-w32/)
+- [Samy Kamkar: PoisonTap - exploiting locked computers over USB](https://samy.pl/poisontap/)
+- [Samy Kamkar: PoisonTap - exploiting locked computers over USB](https://samy.pl/poisontap/)
+- [command line - Please recommend a hex editor for shell - Ask Ubuntu](http://askubuntu.com/questions/344642/please-recommend-a-hex-editor-for-shell)
+- [command line - Please recommend a hex editor for shell - Ask Ubuntu](http://askubuntu.com/questions/344642/please-recommend-a-hex-editor-for-shell)
+- [OWASP Zed Attack Proxy Project - OWASP](https://www.owasp.org/index.php/OWASP_Zed_Attack_Proxy_Project)
+- [OWASP Zed Attack Proxy Project - OWASP](https://www.owasp.org/index.php/OWASP_Zed_Attack_Proxy_Project)

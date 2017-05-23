@@ -1,0 +1,25 @@
+_**studio web audio, dev audio web audio UI components**_
+
+### web audio UI components
+
+- [**+ Nexus Web Audio Interfaces**](http://www.nexusosc.com/)
+- [g200kg/webaudio-controls: GUI parts library for Web application using [Polymer] WebComponents](https://github.com/g200kg/webaudio-controls)
+- [Get Started | WAAX](http://hoch.github.io/WAAX/get-started/)
+- [io-808/src/components/knob at master · francoisgeorgy/io-808](https://github.com/francoisgeorgy/io-808/tree/master/src/components/knob)
+- [jQuery Knob - aterrien](http://anthonyterrien.com/knob/)
+- [jQuery Knob demo](http://anthonyterrien.com/demo/knob/)
+- [kylestetz/AudioKeys: a QWERTY keyboard for web audio projects](https://github.com/kylestetz/AudioKeys)
+- [LFeh/piano: Piano Keyboard developed in HTML, CSS and JavaScript](https://github.com/LFeh/piano)
+- [lsu-emdm/nexusUI: JavaScript toolkit of HTML5 audio interfaces.](https://github.com/lsu-emdm/nexusUI)
+- [musicjs/beautiful-piano: beautiful visualization of piano keys with pressed keys effect in plain HTML&CSS](https://github.com/musicjs/beautiful-piano)
+- [Noun Project - Icons for Everything](https://thenounproject.com/)
+- [padenot/knob.js: A tiny fader & knob library in js](https://github.com/padenot/knob.js)
+- [piano – a flexible piano keyboard plugin for jQuery | l90r – Igor Prochazka's personal blog](http://www.l90r.com/posts/piano-a-flexible-piano-keyboard-plugin-for-jquery)
+- [Piano Overview](https://developer.tizen.org/dev-guide/2.3.1/org.tizen.sampledescriptions/html/mobile_w/piano_mw.htm)
+- [Pure CSS3 Piano | CSSDeck](http://cssdeck.com/labs/pure-css3-piano)
+- [React.parts – A catalog of React components](https://react.parts/native?search=audio)
+- [robotaudio.com/media/scripts/synth/views/knob_view.js](http://robotaudio.com/media/scripts/synth/views/knob_view.js)
+- [Volume Knob Input](https://codepen.io/blucube/pen/cudAz)
+- [webmusic-icons](https://webmusicdevelopersjp.github.io/webmusic-icons/)
+- [SMuFL | Standard Music Font Layout](http://www.smufl.org/)
+- [**+++ ryoyakawai/webaudio-controls: GUI parts library for Web application using [Polymer] WebComponents**](https://github.com/ryoyakawai/webaudio-controls)

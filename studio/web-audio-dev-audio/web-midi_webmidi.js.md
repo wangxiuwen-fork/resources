@@ -1,0 +1,26 @@
+_**studio web audio, dev audio web midi webmidi.js**_
+
+#### webmidi.js
+
+- [Web MIDI: Music and Show Control in the Browser - TangibleJS](http://tangiblejs.com/posts/web-midi-music-and-show-control-in-the-browser)
+- [Web MIDI (MIDI Support in Web Browsers)](https://www.midi.org/17-the-mma/99-web-midi)
+- [**+++ Web MIDI API**](https://www.w3.org/TR/webmidi/)
+- [Keith McMillen Instruments](https://github.com/keithmcmilleninstruments)
+- [https://www.w3.org/TR/webmidi/#dfn-algorithm-to-open-a-midiport](https://www.w3.org/TR/webmidi/#dfn-algorithm-to-open-a-midiport)
+- [Summary of MIDI Messages](https://www.midi.org/specifications/item/table-1-summary-of-midi-message)
+- [cotejp/webmidi: WebMidi.js helps you tame the Web MIDI API. Send and receive MIDI messages with ease. Control instruments with user-friendly functions (playNote, sendPitchBend, etc.). React to MIDI input with simple event listeners (noteon, pitchbend, con](https://github.com/cotejp/webmidi)
+- [MIDI Tutorial: Building a Monosynth using Web MIDI API | Toptal](https://www.toptal.com/web/creating-browser-based-audio-applications-controlled-by-midi-hardware)
+- [Web Midi API Study](http://shokai.github.io/WebMidiAPIStudy/)
+- [cwilso/Audio-Input-Effects: Live input Web Audio effects](https://github.com/cwilso/Audio-Input-Effects)
+- [shokai/WebMidiAPIStudy: Web MIDI API](https://github.com/shokai/WebMidiAPIStudy)
+- [earslap/MIDI.js: Making life easy to create a MIDI-app on the web. Includes a library to program synesthesia into your app for memory recognition or for creating trippy effects. Convert soundfonts for Guitar, Bass, Drums, ect. into code that can be read b](https://github.com/earslap/MIDI.js)
+- [Ctrlr - Control your MIDI life (MIDI editor for all your hardware)](http://ctrlr.org/)
+- [snoize: MIDI Monitor](https://www.snoize.com/MIDIMonitor/)
+- [Web Midi API Study - dump](http://shokai.github.io/WebMidiAPIStudy/dump/)
+- [Online Virtual MIDI Keyboard - CaseyRule.com](http://www.caseyrule.com/projects/piano/)
+- [**+++ Making the Web Rock: Web MIDI**](https://webaudiodemos.appspot.com/slides/webmidi.html#/)
+- [motiz88/react-native-midi: A Web MIDI API implementation for React Native (experimental, Android only)](https://github.com/motiz88/react-native-midi)
+- [cwilso/MIDIDrums: MIDI version of Shiny Drum Machine](https://github.com/cwilso/MIDIDrums)
+- [Web MIDI API](https://webaudio.github.io/web-midi-api/)
+- [Web MIDI: Music and Show Control in the Browser - TangibleJS](http://tangiblejs.com/posts/web-midi-music-and-show-control-in-the-browser)
+- [MIDI](http://midimonitor.sharpness.net/)
