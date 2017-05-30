@@ -2,6 +2,7 @@ _**dev javascript js best practices and know how**_
 
 ### js best practices and know how
 
+- [The Many Faces of Functions in JavaScript](https://bocoup.com/blog/the-many-faces-of-functions-in-javascript)
 - [Valid javascript object property names - Stack Overflow](http://stackoverflow.com/questions/2940424/valid-javascript-object-property-names)
 - [Working with objects - JavaScript | MDN](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Guide/Working_with_Objects#Objects_and_properties)
 - [Checking if an array key exists in a JavaScript object or array? - Stack Overflow](http://stackoverflow.com/questions/1098040/checking-if-an-array-key-exists-in-a-javascript-object-or-array)
