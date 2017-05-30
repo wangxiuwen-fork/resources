@@ -2,6 +2,9 @@ _**studio guitar guitar fx guitar fx know-how internals**_
 
 #### guitar fx know-how internals
 
+- [**++++ La technologie de la pédale BUFFER – Anasounds**](http://anasounds.com/la-technologie-du-buffer/)
+- [Les micros de guitare, c’est pas sorcier](http://anasounds.com/les-micros-de-guitare/)
+- [Caractéristiques techniques des patchs pour pédales d’effets](http://anasounds.com/caracteristiques-techniques-des-patchs-pour-pedales-deffets/)
 - [GM Arts - Guitar Amplifiers](http://www.gmarts.org/index.php?go=217)
 - [www.geofex.com/effxfaq/distn101.htm](http://www.geofex.com/effxfaq/distn101.htm)
 - [Guitar Distortion 101](http://blackstoneappliances.com/dist101.html)
@@ -15,5 +18,4 @@ _**studio guitar guitar fx guitar fx know-how internals**_
 - [ElectroSmash - MXR Phase 90 Analysis.](http://www.electrosmash.com/mxr-phase90)
 - [Bipolar transistor biasing - Wikipedia, the free encyclopedia](https://en.wikipedia.org/wiki/Bipolar_transistor_biasing)
 - [Tube Screamer Frame Definition](http://www.geofex.com/Article_Folders/TStech/tsxfram.htm)
-- [**++++ La technologie de la pédale BUFFER – Anasounds**](http://anasounds.com/la-technologie-du-buffer/)
 - [Guitar FX: software effects processor, guitar distortion pedals, presets.](http://guitarfx.net/)
