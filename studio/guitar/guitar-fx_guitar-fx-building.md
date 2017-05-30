@@ -2,6 +2,7 @@ _**studio guitar guitar fx guitar fx building**_
 
 #### guitar fx building
 
+- [STEP-BY-STEP GUIDE: BUILD YOUR OWN PEDAL.](http://www.toontrack.com/news/623689-2/10/)
 - [madbeanpedals::forum - Index](http://www.madbeanpedals.com/forum/index.php)
 - [wampler ego compressor schematic - Google Search](https://www.google.ch/search?q=wampler+ego+compressor+schematic&safe=off&biw=1434&bih=815&tbm=isch&imgil=m9VG5wNgYYW-1M%253A%253BH0IZk2t3Hj9ymM%253Bhttp%25253A%25252F%25252Ftagboardeffects.blogspot.com%25252F2012%25252F10%25252Fwampler-paisley-drive.html&source=iu&pf=m&fir=m9VG5wNgYYW-1M%253A%252CH0IZk2t3Hj9ymM%252C_&usg=__nNZ0iFkTbuw9478p92N60GMh9q4%3D&ved=0ahUKEwjW5fGSwPfLAhWHfiwKHVkwAIkQyjcIJw&ei=368DV5b6H4f9sQHZ4IDICA#imgrc=ywRkpMxmN79VeM%3A)
 - [Any Xotic SP Compressor mods out there? | The Gear Page](http://www.thegearpage.net/board/index.php?threads/any-xotic-sp-compressor-mods-out-there.1430690/)
