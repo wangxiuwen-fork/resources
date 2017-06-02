@@ -1,3 +1,10 @@
+#### Disable Firefox insecure password warning:
+
+1. Open about:config
+2. Set `security.insecure_field_warning.contextual.enabled` to `false`
+
+# Content
+
 * [Introduction](README.md)
 * [Web APIs](web-apis.md)
 * [Web Audio](web-audio.md)
