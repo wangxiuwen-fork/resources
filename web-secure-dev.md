@@ -1,5 +1,9 @@
 Best practices to avoid common web security pitfalls.
 
+# Checklists
+ 
+- [Web Developer Security Checklist](https://simplesecurity.sensedeep.com/web-developer-security-checklist-f2e4f43c9c56)
+
 # CSRF
 
 __CSRF__ Cross--Site Request Forgery exploits the trust that a site has in the user's browser.

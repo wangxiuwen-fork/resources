@@ -2,6 +2,7 @@ _**sec os x security**_
 
 ## os x security
 
+- https://www.alienvault.com/blogs/labs-research/diversity-in-recent-mac-malware
 - [‘Filecode’ ransomware attacks your Mac – how to recover for free – Naked Security](https://nakedsecurity.sophos.com/2017/02/28/filecode-ransomware-attacks-your-mac-how-to-recover-for-free/)
 - [**++ New Mac backdoor using antiquated code | Malwarebytes Labs**](https://blog.malwarebytes.com/threat-analysis/2017/01/new-mac-backdoor-using-antiquated-code/)
 - [‘Filecode’ ransomware attacks your Mac – how to recover for free – Naked Security](https://nakedsecurity.sophos.com/2017/02/28/filecode-ransomware-attacks-your-mac-how-to-recover-for-free/)

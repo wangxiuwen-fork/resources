@@ -3,6 +3,10 @@
 1. Open about:config
 2. Set `security.insecure_field_warning.contextual.enabled` to `false`
 
+# dev
+
+http://sites.harvard.edu/~chsi/markone/language.html
+
 # Content
 
 * [Introduction](README.md)
