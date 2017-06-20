@@ -68,8 +68,9 @@ http://sole.github.io/test_cases/
 
 # Music creation apps
 
-- Ctrlr : http://ctrlr.org/
-- Max: https://cycling74.com/
+- **Ctrlr : http://ctrlr.org/**
+    - Control any MIDI enabled hardware: synthesizers, drum machines, samplers, effects. Create custom User Interfaces. Host them as VST or AU plugins in your favorite DAWs.     
+- **Max: https://cycling74.com/**
 - WAAX : https://hoch.github.io/WAAX/
 - SuperCollider : https://github.com/earslap
 
