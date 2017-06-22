@@ -11,3 +11,8 @@ _**studio web audio, dev audio web audio**_
 - [Recreating THX's Deep Note in JavaScript with the Web Audio API](http://blog.stuartmemo.com/thx-deep-note-in-javascript/)
 - [**+++ sound.io**](https://github.com/soundio)
 - [Web Audio API](https://webaudio.github.io/web-audio-api/)
+
+#### Web Audio demos by the BBC
+
+- Ring Modulator : http://webaudio.prototyping.bbc.co.uk/ring-modulator/
+- Tape Loops : http://webaudio.prototyping.bbc.co.uk/tapeloops/
