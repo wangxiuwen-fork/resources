@@ -3,9 +3,59 @@
 1. Open about:config
 2. Set `security.insecure_field_warning.contextual.enabled` to `false`
 
+# chrome
+
+- https://www.cyberciti.biz/faq/google-chrome-clear-or-flush-the-dns-cache/
+
+# net
+
+- https://danielmiessler.com/study/
+    - [A tcpdump Tutorial and Primer with Examples](https://danielmiessler.com/study/tcpdump/)    
+    - [The Difference Between URLs and URIs](https://danielmiessler.com/study/url-uri/)
+    - [A Security-focused HTTP Primer](https://danielmiessler.com/study/http/)
+    - [Encoding vs. Encryption vs. Hashing vs. Obfuscation](https://danielmiessler.com/study/encoding-encryption-hashing-obfuscation/)
+- [How https works](http://sudhakar.online/programming/2015/08/09/https.html)
+- [Explain like I’m 5: Kerberos](http://www.roguelynn.com/words/explain-like-im-5-kerberos/)
+
+- [ngrep](https://en.wikipedia.org/wiki/Ngrep)
+
+
+# JS
+
+- [I thought I knew JavaScript …](https://dev.to/antoniovdlc/i-thought-i-knew-javascript-)
+- [Learning Advanced JavaScript](https://johnresig.com/apps/learn/)
+
+
+# Encoding
+
+- [An Encoding Primer](https://danielmiessler.com/study/encoding/#gs.5DkC2fU)
+
+## java encoding
+
+- https://stackoverflow.com/questions/28584080/base64-java-lang-illegalargumentexception-illegal-character
+- https://stackoverflow.com/questions/469874/how-do-i-correctly-decode-unicode-parameters-passed-to-a-servlet
+
+
 # dev
 
-Computer Science History: http://sites.harvard.edu/~chsi/markone/language.html
+- Computer Science History: http://sites.harvard.edu/~chsi/markone/language.html
+- [A Brief History of the UUID](https://segment.com/blog/a-brief-history-of-the-uuid/)
+- [UUID or GUID as Primary Keys? Be Careful!](https://tomharrisonjr.com/uuid-or-guid-as-primary-keys-be-careful-7b2aa3dcb439)
+
+## git
+
+- https://www.atlassian.com/git/tutorials/merging-vs-rebasing
+
+# sec
+
+- [Metasploit walkthrough](https://www.zero-day.io/metasploitwalkthrough/)
+
+## passwords
+
+- [Forget Passwords and Let the Browser Remember](https://www.technologyreview.com/s/424760/forget-passwords-and-let-the-browser-remember/)
+- [Password Rules Are Bullshit](https://blog.codinghorror.com/password-rules-are-bullshit/)
+- [Let them paste passwords](https://www.ncsc.gov.uk/blog-post/let-them-paste-passwords)
+
 
 # Content
 
