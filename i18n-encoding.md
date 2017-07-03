@@ -10,7 +10,16 @@ TODO: give examples
 
 Explicitly set the encoding, do not let the browser auto-detect.
 
+# HTTP headers encoding
 
+__Per RFC 2109 (sec. 4.2.2) and RFC 2616 (sec. 2.2, 4.2), HTTP headers may only be transmitted in ISO-8859-1.__ (There is an 
+exception, but this is primarily used for MIME and is pretty much never seen in HTTP.) Since ISO-8859-1 is really just a 
+series of octets, the server can choose to use a different encoding (UTF8, in this case) if it wishes, since cookies are
+intended to be treated opaquely by the client anyway. Thus it should be round-tripped correctly in all cases, but if the 
+client tries parsing the cookie it will get different results based on whether or not it is following the RFCs.
+
+Please try to avoid sending non-ASCII characters in headers if at all possible. The HTTP spec never really accounted for 
+this properly, and as a result it causes pain and heartache when used in practice. :(
 
 ## Good To Know
 
